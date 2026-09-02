@@ -1,11 +1,1 @@
-# Omnix Kernel
-
-**Omnix** is a modular, AI-augmented experimental operating system kernel written in **Rust** and **C**, featuring:
-
-- 🚫 **Non-POSIX system call interface** (`syscall`) for modern interaction models
-- 🧠 **Self-adaptive kernel logic** via telemetry + rule-based or ML decision engines
-- 🔌 **Pluggable kernel modules** (including safe, sandboxed modules via WebAssembly)
-- 🛠️ **Custom hardware abstraction** via a message-driven HAL (Hardware Abstraction Layer++)
-- 🔐 Built for **memory safety**, **observability**, and **experimentation**
-
-Omnix is designed to be open-source, community-driven, and unlike any Unix-derived kernel you've seen.
+A small os will be written in c as a learning project to understand how os and kernels work under the hood building it step by step to learn about booting, memory, processes, interrupts, scheduling, and other os concepts
