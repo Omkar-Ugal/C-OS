@@ -1,1 +1,1 @@
-A small os will be written in c as a learning project to understand how os and kernels work under the hood building it step by step to learn about booting, memory, processes, interrupts, scheduling, and other os concepts
+A small os will be written in c as a learning project to understand how os and kernels work under the hood building it step by step to learn more about booting, memory, processes, interrupts, scheduling, and other os concepts
